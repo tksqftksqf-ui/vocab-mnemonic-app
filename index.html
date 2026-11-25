@@ -4719,6 +4719,8 @@
     function quickLookup(word) {
       document.getElementById('search-input').value = word;
       handleAnalyzeWord();
+      switchTab('lookup');
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     }
 
     function handleAnalyzeWord() {
@@ -5072,11 +5074,12 @@
               </div>
             </div>
 
-            <div class="flex items-center justify-between border-t border-slate-100 pt-3 text-xs">
+            <div class="flex flex-wrap items-center justify-between gap-2 border-t border-slate-100 pt-3 text-xs">
               <div class="flex items-center gap-1.5">
-                <button onclick="speakWord('${item.word}')" class="p-2 rounded-lg bg-slate-50 hover:bg-indigo-600 text-slate-600 hover:text-white border border-slate-200 transition-all" title="發音">🔊</button>
-                <button onclick="openCustomWordModal('${item.word}')" class="p-2 rounded-lg bg-slate-50 hover:bg-slate-200 text-slate-600 border border-slate-200 transition-all" title="編輯">✏️</button>
-                <button onclick="deleteWordFromDeck('${item.word}')" class="p-2 rounded-lg bg-slate-50 hover:bg-rose-100 text-rose-600 border border-slate-200 transition-all" title="刪除">🗑️</button>
+                <button onclick="quickLookup('${escJs(item.word)}')" class="px-2.5 py-1.5 rounded-lg bg-indigo-50 hover:bg-indigo-600 text-indigo-700 hover:text-white border border-indigo-200 font-bold transition-all" title="查看完整單字解剖">🔍 完整解剖</button>
+                <button onclick="speakWord('${escJs(item.word)}')" class="p-2 rounded-lg bg-slate-50 hover:bg-indigo-600 text-slate-600 hover:text-white border border-slate-200 transition-all" title="發音">🔊</button>
+                <button onclick="openCustomWordModal('${escJs(item.word)}')" class="p-2 rounded-lg bg-slate-50 hover:bg-slate-200 text-slate-600 border border-slate-200 transition-all" title="編輯">✏️</button>
+                <button onclick="deleteWordFromDeck('${escJs(item.word)}')" class="p-2 rounded-lg bg-slate-50 hover:bg-rose-100 text-rose-600 border border-slate-200 transition-all" title="刪除">🗑️</button>
               </div>
               <div class="flex items-center gap-1">
                 <button onclick="setWordStatus('${item.word}', 'hard')" class="px-2 py-1 rounded-lg text-xs font-bold ${item.status === 'hard' ? 'bg-rose-600 text-white' : 'bg-slate-100 text-slate-500'}">🤯</button>
