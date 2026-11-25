@@ -1,0 +1,1195 @@
+[
+  {
+    "word": "breath",
+    "ipa": "/breθ/",
+    "phonics": "br-ea-th → /br/ + /e/ + /θ/（ea 在此發短母音「ㄝ」，字尾 th 輕咬舌尖吐氣無聲）",
+    "pos": "n.",
+    "meaning": "呼吸、氣息、一口氣",
+    "prefix": "無",
+    "root": "bræth (古英語：呼出的熱氣/蒸氣)",
+    "suffix": "無",
+    "formula": "古日耳曼語「熱氣/氣息」→ 呼出與吸入的空氣 → 氣息、一口氣",
+    "family": [
+      {
+        "word": "breathe",
+        "pos": "v.",
+        "ipa": "/briːð/",
+        "phonics": "br-ea-the → ea 發長音「一」/iː/，字尾 e 不發音且讓 th 變有聲濁音 /ð/",
+        "meaning": "呼吸（動詞）",
+        "example": "Breathe deeply through your nose and relax your shoulders."
+      },
+      {
+        "word": "breathless",
+        "pos": "adj.",
+        "ipa": "/ˈbreθ.ləs/",
+        "phonics": "breath + -less → /breθ/ + /ləs/（重音在第一音節）",
+        "meaning": "氣喘吁吁的、上氣不接下氣的",
+        "example": "She was breathless after running up five flights of stairs."
+      },
+      {
+        "word": "breathtaking",
+        "pos": "adj.",
+        "ipa": "/ˈbreθˌteɪ.kɪŋ/",
+        "phonics": "breath + tak-ing → /breθ/ + /teɪ/ + /kɪŋ/（美到讓人屏息）",
+        "meaning": "壯觀的、令人屏息驚嘆的",
+        "example": "The view from the top of the mountain was breathtaking."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "suffocation",
+        "pos": "n.",
+        "ipa": "/ˌsʌf.əˈkeɪ.ʃən/",
+        "meaning": "窒息、無法呼吸",
+        "example": "Keep plastic bags away from babies to prevent suffocation."
+      },
+      {
+        "word": "apnea",
+        "pos": "n.",
+        "ipa": "/ˈæp.ni.ə/",
+        "meaning": "呼吸暫停",
+        "example": "Sleep apnea causes brief pauses in breathing during sleep."
+      }
+    ],
+    "pun": "不累死 (Bre-th)",
+    "scene": "跑馬拉松快喘不過氣時，教練大喊：「深吸一口氣 (take a breath)，調整呼吸就『不累死』了！」",
+    "example": "Take a deep breath and count to ten before you answer.",
+    "status": "hard"
+  },
+  {
+    "word": "complicated",
+    "ipa": "/ˈkɑːm.plə.keɪ.t̬ɪd/",
+    "phonics": "com · pli · ca · ted → /kɑm/ + /plə/ + /keɪ/ + /tɪd/（重音在第一音節，a 發長音 /eɪ/）",
+    "pos": "adj.",
+    "meaning": "複雜的、難懂糾葛的、繁瑣難解的",
+    "prefix": "com- (全部、共同)",
+    "root": "plic / plect (折疊、交織重疊)",
+    "suffix": "-ated (形容詞字尾)",
+    "formula": "com- [全部] + plic [折疊交疊了幾百層] + -ated = 像亂成一團的毛線球層層折疊打結 → 複雜難解的",
+    "family": [
+      {
+        "word": "complicate",
+        "pos": "v.",
+        "ipa": "/ˈkɑːm.plə.keɪt/",
+        "phonics": "com · pli · cate → /kɑm/ + /plə/ + /keɪt/",
+        "meaning": "使複雜化、使難懂",
+        "example": "Don't complicate the issue by adding unnecessary rules."
+      },
+      {
+        "word": "complication",
+        "pos": "n.",
+        "ipa": "/ˌkɑːm.pləˈkeɪ.ʃən/",
+        "phonics": "com · pli · ca · tion → 重音移到 -ca- /keɪ/，-tion 固定讀 /ʃən/",
+        "meaning": "複雜情況、併發症",
+        "example": "The surgery went smoothly without any complications."
+      },
+      {
+        "word": "complex",
+        "pos": "adj.",
+        "ipa": "/kəmˈpleks/",
+        "phonics": "com · plex → /kəm/ + /pleks/（x 發 /ks/）",
+        "meaning": "複雜的、綜合的",
+        "example": "Human memory is a remarkably complex system."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "simple",
+        "pos": "adj.",
+        "ipa": "/ˈsɪm.pəl/",
+        "meaning": "簡單的、單純的",
+        "example": "The instructions are clear and simple to follow."
+      },
+      {
+        "word": "straightforward",
+        "pos": "adj.",
+        "ipa": "/ˌstreɪtˈfɔːr.wɚd/",
+        "meaning": "直截了當的、簡單明瞭的",
+        "example": "Installing the app is a straightforward process."
+      }
+    ],
+    "pun": "扛不來K他 (Com-pli-ca-ted)",
+    "scene": "買了一台八百個零件的機械鐘，說明書密密麻麻像無字天書，複雜到你大喊：「這題我『扛不來，真想K他』！」",
+    "example": "The tax laws in this country are far too complicated for ordinary citizens to understand.",
+    "status": "hard"
+  },
+  {
+    "word": "either",
+    "ipa": "/ˈiː.ðɚ/ · /ˈaɪ.ðɚ/",
+    "phonics": "ei · ther → /iː/（像一）或 /aɪ/（像愛）+ /ðɚ/（th 有聲咬舌音）",
+    "pos": "det. / pron. / adv. / conj.",
+    "meaning": "（兩者中）任一個、兩方都；（否定句中）也不；either...or... (不是...就是...)",
+    "prefix": "ā- (永遠/任何)",
+    "root": "gehwæther (兩者之中的任一個，同whether)",
+    "suffix": "無",
+    "formula": "ā- [任何] + hwæther [兩者中挑一個] = 在兩者岔路中取任一端，或否定時兩者皆非",
+    "family": [
+      {
+        "word": "neither",
+        "pos": "pron./adv.",
+        "ipa": "/ˈniː.ðɚ/ · /ˈnaɪ.ðɚ/",
+        "phonics": "nei · ther → n + either（兩者皆非）",
+        "meaning": "兩者皆非、也不",
+        "example": "Neither of the two restaurants was open on Monday."
+      },
+      {
+        "word": "whether",
+        "pos": "conj.",
+        "ipa": "/ˈweð.ɚ/",
+        "phonics": "wh-e-ther → wh 發 /w/（h 不發音），e 發短音「ㄝ」",
+        "meaning": "是否、不管（兩者之中）",
+        "example": "I don't know whether he will join us tonight."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "neither",
+        "pos": "pron.",
+        "ipa": "/ˈniː.ðɚ/",
+        "meaning": "兩者都不",
+        "example": "Neither answer is correct."
+      },
+      {
+        "word": "both",
+        "pos": "det.",
+        "ipa": "/boʊθ/",
+        "meaning": "兩者都（非單選）",
+        "example": "You can take both books home today."
+      }
+    ],
+    "pun": "一則 / 愛則 (Ei-ther)",
+    "scene": "報紙上左邊一篇八卦、右邊一篇頭條，編輯說：「兩者任選『一則 (either)』刊登就好，我全都要的話讀者會看花眼！」",
+    "example": "You can choose either option; both of them have great advantages.",
+    "status": "hard"
+  },
+  {
+    "word": "expense",
+    "ipa": "/ɪkˈspens/",
+    "phonics": "ex · pense → /ɪk/ + /spens/（重音在第二音節，字尾 e 不發音）",
+    "pos": "n.",
+    "meaning": "花費、費用、開銷",
+    "prefix": "ex- (向外)",
+    "root": "pendere / pens (秤重支付銀兩，同spend)",
+    "suffix": "無",
+    "formula": "ex- [向外掏出] + pens [秤量付錢] = 口袋裡的銀兩不斷往外支付支出 → 開銷/費用",
+    "family": [
+      {
+        "word": "expensive",
+        "pos": "adj.",
+        "ipa": "/ɪkˈspen.sɪv/",
+        "phonics": "ex · pen · sive → /ɪk/ + /spen/ + /sɪv/（-ive 讀短音 /ɪv/）",
+        "meaning": "昂貴的、花大錢的",
+        "example": "Eating out every night can get very expensive."
+      },
+      {
+        "word": "expenditure",
+        "pos": "n.",
+        "ipa": "/ɪkˈspen.dɪ.tʃɚ/",
+        "phonics": "ex · pen · di · ture → -ture 讀 /tʃɚ/",
+        "meaning": "支出額、經費（正式用語）",
+        "example": "The company cut its advertising expenditure by 20 percent."
+      },
+      {
+        "word": "spend",
+        "pos": "v.",
+        "ipa": "/spend/",
+        "phonics": "sp-e-nd → /sp/ + /e/ + /nd/",
+        "meaning": "花費（金錢或時間）",
+        "example": "How much did you spend on that jacket?"
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "income",
+        "pos": "n.",
+        "ipa": "/ˈɪn.kʌm/",
+        "meaning": "收入、所得",
+        "example": "His monthly income easily covers his living expenses."
+      },
+      {
+        "word": "savings",
+        "pos": "n.",
+        "ipa": "/ˈseɪ.vɪŋz/",
+        "meaning": "存款、儲蓄",
+        "example": "We used our savings to buy our first home."
+      }
+    ],
+    "pun": "一克死貴，噴死 (Ex-pense)",
+    "scene": "去高檔餐廳結帳看到天價帳單，荷包裡的鈔票像水龍頭爆開一樣「一克死貴、一口氣噴死 (expense)」，開銷太大了！",
+    "example": "We need to cut down our monthly living expenses by cooking at home.",
+    "status": "hard"
+  },
+  {
+    "word": "weird",
+    "ipa": "/wɪrd/",
+    "phonics": "w-eir-d → /w/ + /ɪr/（同 ear）+ /d/（單音節，別唸成兩個音節）",
+    "pos": "adj.",
+    "meaning": "奇怪的、古怪離奇的",
+    "prefix": "無",
+    "root": "wyrd (命運/不可預料的神力命運女神)",
+    "suffix": "無",
+    "formula": "像神秘命運女神一樣超乎常理、不可捉摸的超自然現象 → 離奇奇怪的",
+    "family": [
+      {
+        "word": "weirdo",
+        "pos": "n.",
+        "ipa": "/ˈwɪr.doʊ/",
+        "phonics": "weir · do → /wɪr/ + /doʊ/",
+        "meaning": "怪人、行為古怪的人",
+        "example": "People called him a weirdo because he talked to his plants."
+      },
+      {
+        "word": "weirdly",
+        "pos": "adv.",
+        "ipa": "/ˈwɪrd.li/",
+        "phonics": "weird · ly → /wɪrd/ + /li/",
+        "meaning": "奇怪地、古怪地",
+        "example": "The room was weirdly quiet when we walked in."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "normal",
+        "pos": "adj.",
+        "ipa": "/ˈnɔːr.məl/",
+        "meaning": "正常的、普通的",
+        "example": "It is completely normal to feel nervous before a speech."
+      },
+      {
+        "word": "ordinary",
+        "pos": "adj.",
+        "ipa": "/ˈɔːr.də.ner.i/",
+        "meaning": "平凡的、尋常的",
+        "example": "Just an ordinary Tuesday morning at the office."
+      }
+    ],
+    "pun": "威爾的 (Weird)",
+    "scene": "隔壁鄰居「威爾的 (weird)」行為超古怪，半夜三點穿著青蛙裝在陽台用吸塵器吸空氣！",
+    "example": "I had a really weird dream where cats could fly airplanes.",
+    "status": "hard"
+  },
+  {
+    "word": "apologize",
+    "ipa": "/əˈpɑː.lə.dʒaɪz/",
+    "phonics": "a · pol · o · gize → /ə/ + /pɑ/ + /lə/ + /dʒaɪz/（g 在 i 前發 /dʒ/，字尾 -ize 讀 /aɪz/）",
+    "pos": "v.",
+    "meaning": "道歉、認錯",
+    "prefix": "apo- (脫離/撇清)",
+    "root": "logos (言語/論辯)",
+    "suffix": "-ize (動詞字尾)",
+    "formula": "apo- [撇清前嫌] + logos [用言語認錯化解] + -ize = 用真誠言語承認過失以修復關係 → 道歉",
+    "family": [
+      {
+        "word": "apology",
+        "pos": "n.",
+        "ipa": "/əˈpɑː.lə.dʒi/",
+        "phonics": "a · pol · o · gy → /ə/ + /pɑ/ + /lə/ + /dʒi/",
+        "meaning": "道歉（名詞）",
+        "example": "She wrote a sincere letter of apology to her friend."
+      },
+      {
+        "word": "apologetic",
+        "pos": "adj.",
+        "ipa": "/əˌpɑː.ləˈdʒet̬.ɪk/",
+        "phonics": "a · pol · o · get · ic → 重音移到 -get- /dʒet/",
+        "meaning": "充滿歉意的、抱歉的",
+        "example": "He gave me an apologetic smile after spilling the coffee."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "blame",
+        "pos": "v.",
+        "ipa": "/bleɪm/",
+        "meaning": "責怪、推卸責任",
+        "example": "Don't blame others for your own mistakes."
+      },
+      {
+        "word": "defend",
+        "pos": "v.",
+        "ipa": "/dɪˈfend/",
+        "meaning": "辯護、不認錯",
+        "example": "He tried to defend his rude behavior instead of saying sorry."
+      }
+    ],
+    "pun": "阿婆老這愛死 (A-pol-o-gize)",
+    "scene": "「阿婆老這愛死」面子，以前從不低頭，今天踩到人竟然90度鞠躬狂道歉認錯！",
+    "example": "He sincerely apologized for arriving late to the interview.",
+    "status": "hard"
+  },
+  {
+    "word": "ridiculous",
+    "ipa": "/rɪˈdɪk.jə.ləs/",
+    "phonics": "ri · dic · u · lous → /rɪ/ + /dɪk/ + /jə/ + /ləs/（重音在第二音節 dic）",
+    "pos": "adj.",
+    "meaning": "荒謬可笑的、荒唐的",
+    "prefix": "無",
+    "root": "ridere (笑/嘲諷，同ridicule)",
+    "suffix": "-culous (具有...程度的形容詞)",
+    "formula": "ridere [惹人發笑] + -culous = 荒唐愚蠢到讓人失笑的 → 荒謬可笑的",
+    "family": [
+      {
+        "word": "ridicule",
+        "pos": "v./n.",
+        "ipa": "/ˈrɪd.ɪ.kjuːl/",
+        "phonics": "rid · i · cule → /rɪd/ + /ɪ/ + /kjuːl/",
+        "meaning": "嘲笑、奚落",
+        "example": "It is cruel to ridicule someone for their accent."
+      },
+      {
+        "word": "ridiculously",
+        "pos": "adv.",
+        "ipa": "/rɪˈdɪk.jə.ləs.li/",
+        "phonics": "ri · dic · u · lous · ly → 字尾加 -ly",
+        "meaning": "荒謬地、極度地",
+        "example": "The tickets for that concert were ridiculously expensive."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reasonable",
+        "pos": "adj.",
+        "ipa": "/ˈriː.zən.ə.bəl/",
+        "meaning": "合理的、合情理的",
+        "example": "That sounds like a very reasonable price."
+      },
+      {
+        "word": "sensible",
+        "pos": "adj.",
+        "ipa": "/ˈsen.sə.bəl/",
+        "meaning": "明智的、通情達理的",
+        "example": "Wearing a coat in winter is a sensible choice."
+      }
+    ],
+    "pun": "你弟哭了死 (Ri-dic-u-lous)",
+    "scene": "四十度大夏天穿羽絨大衣去海灘衝浪，荒謬可笑到旁人笑翻，「你弟哭了死」也還是覺得超荒唐！",
+    "example": "Spending a thousand dollars on a pair of plastic slippers is totally ridiculous.",
+    "status": "hard"
+  },
+  {
+    "word": "adorable",
+    "ipa": "/əˈdɔːr.ə.bəl/",
+    "phonics": "a · dor · a · ble → /ə/ + /dɔːr/ + /ə/ + /bəl/（重音在 dor）",
+    "pos": "adj.",
+    "meaning": "極可愛的、討人喜愛的",
+    "prefix": "ad- (朝向)",
+    "root": "orare (祈禱/由衷崇拜，同adore)",
+    "suffix": "-able (值得...的)",
+    "formula": "ad- [朝向] + ore [敬愛讚美] + -able = 討喜到讓人忍不住由衷呵護喜愛的 → 極可愛的",
+    "family": [
+      {
+        "word": "adore",
+        "pos": "v.",
+        "ipa": "/əˈdɔːr/",
+        "phonics": "a · dore → /ə/ + /dɔːr/（字尾 e 不發音）",
+        "meaning": "非常喜愛、愛慕",
+        "example": "I absolutely adore small kittens."
+      },
+      {
+        "word": "adorably",
+        "pos": "adv.",
+        "ipa": "/əˈdɔːr.ə.bli/",
+        "phonics": "a · dor · a · bly → 去 e 加 y",
+        "meaning": "可愛地、討人喜歡地",
+        "example": "The baby smiled adorably at the camera."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "hideous",
+        "pos": "adj.",
+        "ipa": "/ˈhɪd.i.əs/",
+        "meaning": "醜陋駭人的、討厭的",
+        "example": "That monster in the movie looked hideous."
+      },
+      {
+        "word": "repulsive",
+        "pos": "adj.",
+        "ipa": "/rɪˈpʌl.sɪv/",
+        "meaning": "令人厭惡反感的",
+        "example": "The smell from the garbage was repulsive."
+      }
+    ],
+    "pun": "阿朵惹抱 (A-dor-a-ble)",
+    "scene": "小柴犬「阿朵」圓滾滾又會歪頭笑，超級「惹人抱 (adorable)」，可愛到把大家心都融化了！",
+    "example": "The golden retriever puppy is so adorable that everyone wants to cuddle it.",
+    "status": "hard"
+  },
+  {
+    "word": "figured",
+    "ipa": "/ˈfɪɡ.jɚd/",
+    "phonics": "fig · ured → /fɪɡ/ + /jɚd/（u 在此發 /jɚ/，ed 讀濁音 /d/）",
+    "pos": "v. (過去式/分詞) / adj.",
+    "meaning": "想到了、早就料到/猜到了 (I figured)、弄清楚了 (figured out)",
+    "prefix": "無",
+    "root": "fingere (塑形/塑造輪廓)",
+    "suffix": "-ed (過去式/完成字尾)",
+    "formula": "figure [腦海勾勒輪廓] + -ed [已琢磨定案] = 腦袋早已琢磨明白 → 早就猜到了/料想到了",
+    "family": [
+      {
+        "word": "figure",
+        "pos": "v./n.",
+        "ipa": "/ˈfɪɡ.jɚ/",
+        "phonics": "fig · ure → /fɪɡ/ + /jɚ/",
+        "meaning": "認為、計算、數字、身材",
+        "example": "Let's figure out how to solve this puzzle together."
+      },
+      {
+        "word": "disfigured",
+        "pos": "adj.",
+        "ipa": "/dɪsˈfɪɡ.jɚd/",
+        "phonics": "dis + figured → 破壞外貌形狀",
+        "meaning": "毀容的、損毀外貌的",
+        "example": "The old statue was disfigured by years of acid rain."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "overlooked",
+        "pos": "v.",
+        "ipa": "/ˌoʊ.vɚˈlʊkt/",
+        "meaning": "忽略了、沒料到",
+        "example": "I completely overlooked that important detail."
+      },
+      {
+        "word": "misjudged",
+        "pos": "v.",
+        "ipa": "/ˌmɪsˈdʒʌdʒd/",
+        "meaning": "誤判了、猜錯了",
+        "example": "I misjudged the distance and missed the target."
+      }
+    ],
+    "pun": "飛哥的 (Fig-ured)",
+    "scene": "一進客廳看到滿桌空披薩盒，你嘆口氣：「我就猜到了 (I figured)！這擺明是『飛哥的』傑作！」",
+    "example": "I figured you would be hungry after the long flight, so I ordered pizza.",
+    "status": "hard"
+  },
+  {
+    "word": "explain",
+    "ipa": "/ɪkˈspleɪn/",
+    "phonics": "ex · plain → /ɪk/ + /spleɪn/（ai 合起來發長音 /eɪ/）",
+    "pos": "v.",
+    "meaning": "解釋、說明",
+    "prefix": "ex- (徹底/出來)",
+    "root": "planus (平坦清楚，同plain)",
+    "suffix": "無",
+    "formula": "ex- [徹底] + planus [鋪平展現] = 把糾結複雜的道理整個攤平鋪開講 → 解釋說明",
+    "family": [
+      {
+        "word": "explanation",
+        "pos": "n.",
+        "ipa": "/ˌek.spləˈneɪ.ʃən/",
+        "phonics": "ex · pla · na · tion → 注意拼字沒有 i！重音在 na",
+        "meaning": "解釋、說明（名詞）",
+        "example": "He gave a clear explanation of the new policy."
+      },
+      {
+        "word": "explanatory",
+        "pos": "adj.",
+        "ipa": "/ɪkˈsplæn.ə.tɔːr.i/",
+        "phonics": "ex · plan · a · to · ry → 重音在 plan",
+        "meaning": "解釋性的、說明的",
+        "example": "Please read the explanatory notes at the bottom of the page."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "confuse",
+        "pos": "v.",
+        "ipa": "/kənˈfjuːz/",
+        "meaning": "使困惑、搞混",
+        "example": "Your complicated chart will only confuse the audience."
+      },
+      {
+        "word": "obscure",
+        "pos": "v.",
+        "ipa": "/əbˈskjʊr/",
+        "meaning": "使模糊、掩蓋",
+        "example": "Technical jargon can obscure the main point."
+      }
+    ],
+    "pun": "一個死不累 (Ex-plain)",
+    "scene": "客服人員超有耐心，把複雜條款解釋到「一個死不累 (explain)」的地步，講了三小時還是面帶微笑！",
+    "example": "Could you please explain how this software algorithm works?",
+    "status": "hard"
+  },
+  {
+    "word": "assume",
+    "ipa": "/əˈsuːm/",
+    "phonics": "as · sume → /ə/ + /suːm/（u 在此發「屋」/uː/，字尾 e 不發音）",
+    "pos": "v.",
+    "meaning": "假定、設想、承擔",
+    "prefix": "ad- -> as- (朝向)",
+    "root": "sumere (拿取/接受)",
+    "suffix": "無",
+    "formula": "as- [在未驗證前] + sumere [擅自先拿來當真] = 先入為主認定 → 假定/設想",
+    "family": [
+      {
+        "word": "assumption",
+        "pos": "n.",
+        "ipa": "/əˈsʌmp.ʃən/",
+        "phonics": "as · sump · tion → u 變短音 /ʌ/，中間多了 p",
+        "meaning": "假定、臆測",
+        "example": "We shouldn't make decisions based on false assumptions."
+      },
+      {
+        "word": "assumed",
+        "pos": "adj.",
+        "ipa": "/əˈsuːmd/",
+        "phonics": "as · sumed → /ə/ + /suːmd/",
+        "meaning": "假定的、假裝的",
+        "example": "The spy traveled under an assumed name."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "prove",
+        "pos": "v.",
+        "ipa": "/pruːv/",
+        "meaning": "證明、證實",
+        "example": "You need evidence to prove your theory."
+      },
+      {
+        "word": "verify",
+        "pos": "v.",
+        "ipa": "/ˈver.ə.faɪ/",
+        "meaning": "核實、查證",
+        "example": "Always verify the facts before sharing news."
+      }
+    ],
+    "pun": "阿叔母 (As-sume)",
+    "scene": "愛八卦的「阿叔母 (assume)」沒查證就擅自假定鄰居一定中樂透了，結果只是買了一台二手車！",
+    "example": "Never assume anything without checking the facts first.",
+    "status": "hard"
+  },
+  {
+    "word": "nerve",
+    "ipa": "/nɝːv/",
+    "phonics": "n-er-ve → /n/ + /ɝː/（捲舌母音 er）+ /v/（字尾 e 不發音）",
+    "pos": "n.",
+    "meaning": "神經、勇氣/膽量、厚臉皮",
+    "prefix": "無",
+    "root": "nervus (肌腱/筋骨/力量)",
+    "suffix": "無",
+    "formula": "大腦中傳遞感知與勇氣力量的纖維軸索 → 神經/膽識",
+    "family": [
+      {
+        "word": "nervous",
+        "pos": "adj.",
+        "ipa": "/ˈnɝː.vəs/",
+        "phonics": "ner · vous → /nɝː/ + /vəs/",
+        "meaning": "緊張不安的、神經質的",
+        "example": "I always get nervous right before a job interview."
+      },
+      {
+        "word": "nervy",
+        "pos": "adj.",
+        "ipa": "/ˈnɝː.vi/",
+        "phonics": "nerv · y → /nɝː/ + /vi/",
+        "meaning": "大膽的、魯莽或焦慮的",
+        "example": "That was a pretty nervy move on the racetrack."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cowardice",
+        "pos": "n.",
+        "ipa": "/ˈkaʊ.ɚ.dɪs/",
+        "meaning": "怯懦、膽小",
+        "example": "He showed cowardice by running away from responsibility."
+      },
+      {
+        "word": "timidity",
+        "pos": "n.",
+        "ipa": "/tɪˈmɪd.ə.t̬i/",
+        "meaning": "膽怯、羞怯",
+        "example": "Her timidity kept her from raising her hand."
+      }
+    ],
+    "pun": "那婦 (Nerve)",
+    "scene": "大家站在透明玻璃橋上腿都軟了，「那婦 (nerve)」竟然膽量超群、神經大條，在橋上跳繩！",
+    "example": "It takes a lot of nerve to speak in front of hundreds of people.",
+    "status": "hard"
+  },
+  {
+    "word": "pretend",
+    "ipa": "/prɪˈtend/",
+    "phonics": "pre · tend → /prɪ/ + /tend/（重音在第二音節 tend）",
+    "pos": "v.",
+    "meaning": "假裝、偽裝",
+    "prefix": "pre- (在...前面)",
+    "root": "tend (伸展/展開布幕)",
+    "suffix": "無",
+    "formula": "pre- [在別人眼前] + tend [拉起假幕布掩飾真相] = 在人前做假動作 → 假裝",
+    "family": [
+      {
+        "word": "pretense",
+        "pos": "n.",
+        "ipa": "/ˈpriː.tens/",
+        "phonics": "pre · tense → /priː/ + /tens/",
+        "meaning": "假裝、藉口、虛偽",
+        "example": "She dropped all pretense of being polite and walked out."
+      },
+      {
+        "word": "pretentious",
+        "pos": "adj.",
+        "ipa": "/prɪˈten.ʃəs/",
+        "phonics": "pre · ten · tious → -tious 讀 /ʃəs/",
+        "meaning": "做作浮誇的、自命不凡的",
+        "example": "The restaurant was too pretentious for my taste."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "reveal",
+        "pos": "v.",
+        "ipa": "/rɪˈviːl/",
+        "meaning": "揭露、展現真實",
+        "example": "He decided to reveal his true feelings."
+      },
+      {
+        "word": "admit",
+        "pos": "v.",
+        "ipa": "/ədˈmɪt/",
+        "meaning": "承認、坦白",
+        "example": "She admitted that she didn't know the answer."
+      }
+    ],
+    "pun": "撲地疼的 (Pre-tend)",
+    "scene": "碰瓷大叔在腳踏車前面誇張「撲地喊好疼的 (pretend)」，結果假裝被監視器拍得一清二楚！",
+    "example": "He pretended not to hear the alarm clock and pulled the blanket over his head.",
+    "status": "hard"
+  },
+  {
+    "word": "appreciate",
+    "ipa": "/əˈpriː.ʃi.eɪt/",
+    "phonics": "ap · pre · ci · ate → /ə/ + /priː/ + /ʃi/ + /eɪt/（ci 發「希」/ʃi/，ate 發 /eɪt/）",
+    "pos": "v.",
+    "meaning": "感激、欣賞、增值",
+    "prefix": "ad- -> ap- (朝向)",
+    "root": "pretium (價格/價值，同price)",
+    "suffix": "-ate (動詞字尾)",
+    "formula": "ap- [看到對方的價值] + pretium [賦予崇高身價] + -ate = 重視認同對方的付出 → 感激/欣賞",
+    "family": [
+      {
+        "word": "appreciation",
+        "pos": "n.",
+        "ipa": "/əˌpriː.ʃiˈeɪ.ʃən/",
+        "phonics": "ap · pre · ci · a · tion → 重音在 a /eɪ/",
+        "meaning": "感謝、欣賞、升值",
+        "example": "Please accept this gift as a token of our appreciation."
+      },
+      {
+        "word": "appreciative",
+        "pos": "adj.",
+        "ipa": "/əˈpriː.ʃə.t̬ɪv/",
+        "phonics": "ap · pre · ci · a · tive → -tive 讀輕音 /t̬ɪv/",
+        "meaning": "感激的、讚賞的",
+        "example": "The audience was very appreciative of the pianist's performance."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "depreciate",
+        "pos": "v.",
+        "ipa": "/dɪˈpriː.ʃi.eɪt/",
+        "meaning": "貶值、輕視",
+        "example": "A new car begins to depreciate as soon as you drive it off the lot."
+      },
+      {
+        "word": "despise",
+        "pos": "v.",
+        "ipa": "/dɪˈspaɪz/",
+        "meaning": "鄙視、厭惡",
+        "example": "I despise people who are cruel to animals."
+      }
+    ],
+    "pun": "阿伯瑞謝他 (Ap-pre-ci-ate)",
+    "scene": "年輕人幫阿伯扛米上五樓，「阿伯瑞（非常）謝他 (appreciate)」，感動到眼眶泛淚！",
+    "example": "I truly appreciate all your help during this difficult transition.",
+    "status": "hard"
+  },
+  {
+    "word": "exactly",
+    "ipa": "/ɪɡˈzækt.li/",
+    "phonics": "ex · act · ly → /ɪɡ/ + /zækt/ + /li/（ex 在母音前濁化成 /ɪɡz/）",
+    "pos": "adv.",
+    "meaning": "確切地、正是如此、一點也沒錯",
+    "prefix": "ex- (徹底)",
+    "root": "act (做/精確執行)",
+    "suffix": "-ly (副詞字尾)",
+    "formula": "ex- [徹底精準] + act [做到分毫不差] + -ly = 絲毫不差 → 正是如此！",
+    "family": [
+      {
+        "word": "exact",
+        "pos": "adj.",
+        "ipa": "/ɪɡˈzækt/",
+        "phonics": "ex · act → /ɪɡ/ + /zækt/",
+        "meaning": "精確的、準確的",
+        "example": "Can you tell me the exact time the train leaves?"
+      },
+      {
+        "word": "exactness",
+        "pos": "n.",
+        "ipa": "/ɪɡˈzækt.nəs/",
+        "phonics": "ex · act · ness → 加 -ness 變名詞",
+        "meaning": "精確性、嚴密",
+        "example": "Watchmaking requires extreme exactness."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "approximately",
+        "pos": "adv.",
+        "ipa": "/əˈprɑːk.sə.mət.li/",
+        "meaning": "大約、粗略地",
+        "example": "The flight takes approximately three hours."
+      },
+      {
+        "word": "vaguely",
+        "pos": "adv.",
+        "ipa": "/ˈveɪɡ.li/",
+        "meaning": "含糊地、不清楚地",
+        "example": "I vaguely remember meeting him years ago."
+      }
+    ],
+    "pun": "一個扎克里 (Ex-act-ly)",
+    "scene": "射飛鏢「一個扎在克（刻）度裡 (exactly)」，分毫不差命中紅心，裁判大喊：「正是如此！」",
+    "example": "That is exactly what I was trying to tell you all along.",
+    "status": "hard"
+  },
+  {
+    "word": "waste",
+    "ipa": "/weɪst/",
+    "phonics": "w-a-s-te → a_e 規則發長音 /eɪ/，字尾 e 不發音",
+    "pos": "v. / n.",
+    "meaning": "浪費、廢棄物",
+    "prefix": "無",
+    "root": "vastus (荒蕪/空無一人)",
+    "suffix": "無",
+    "formula": "把好好的一整片資源變成無用的荒地廢墟 → 浪費",
+    "family": [
+      {
+        "word": "wasteful",
+        "pos": "adj.",
+        "ipa": "/ˈweɪst.fəl/",
+        "phonics": "waste · ful → /weɪst/ + /fəl/",
+        "meaning": "浪費的、揮霍的",
+        "example": "Leaving the lights on all day is very wasteful."
+      },
+      {
+        "word": "wasteland",
+        "pos": "n.",
+        "ipa": "/ˈweɪst.lænd/",
+        "phonics": "waste + land → /weɪst/ + /lænd/",
+        "meaning": "荒原、不毛之地",
+        "example": "Years of drought turned the farm into a wasteland."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "conserve",
+        "pos": "v.",
+        "ipa": "/kənˈsɝːv/",
+        "meaning": "節約、保護",
+        "example": "We must conserve water during the dry season."
+      },
+      {
+        "word": "cherish",
+        "pos": "v.",
+        "ipa": "/ˈtʃer.ɪʃ/",
+        "meaning": "珍惜、珍愛",
+        "example": "Cherish every moment you spend with your family."
+      }
+    ],
+    "pun": "餵死他 (Waste)",
+    "scene": "點了一整桌滿漢全席吃不完，硬要拿去「餵死他 (waste)」家的寵物豬，太浪費了！",
+    "example": "Do not waste your precious time arguing with internet trolls.",
+    "status": "hard"
+  },
+  {
+    "word": "tough",
+    "ipa": "/tʌf/",
+    "phonics": "t-ou-gh → ou 在此發短音 /ʌ/，字尾 gh 發「夫」/f/",
+    "pos": "adj.",
+    "meaning": "堅韌頑強的、棘手艱難的",
+    "prefix": "無",
+    "root": "tanhu (堅固密實有韌性)",
+    "suffix": "無",
+    "formula": "材料緊密拉不斷嚼不爛 → 堅韌頑強的/難啃的硬骨頭",
+    "family": [
+      {
+        "word": "toughness",
+        "pos": "n.",
+        "ipa": "/ˈtʌf.nəs/",
+        "phonics": "tough · ness → /tʌf/ + /nəs/",
+        "meaning": "韌性、強韌、吃苦耐勞",
+        "example": "Mental toughness is key to winning a marathon."
+      },
+      {
+        "word": "toughen",
+        "pos": "v.",
+        "ipa": "/ˈtʌf.ən/",
+        "phonics": "tough · en → 加 -en 變動詞「使變強硬」",
+        "meaning": "使堅強、使變嚴格",
+        "example": "The government plans to toughen safety regulations."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "fragile",
+        "pos": "adj.",
+        "ipa": "/ˈfrædʒ.əl/",
+        "meaning": "脆弱的、易碎的",
+        "example": "Be careful with that box; the glass inside is fragile."
+      },
+      {
+        "word": "tender",
+        "pos": "adj.",
+        "ipa": "/ˈten.dɚ/",
+        "meaning": "柔嫩的、溫柔的",
+        "example": "This steak is super tender and juicy."
+      }
+    ],
+    "pun": "他服 (Tough)",
+    "scene": "對手看這硬漢怎麼打都打不倒，韌性強到不行，最後舉白旗說：「這場硬仗我真『他服 (tough)』了！」",
+    "example": "She had a tough childhood but grew up into a remarkably resilient person.",
+    "status": "hard"
+  },
+  {
+    "word": "fear",
+    "ipa": "/fɪr/",
+    "phonics": "f-ear → /f/ + /ɪr/（ear 唸起來同耳 ear）",
+    "pos": "n. / v.",
+    "meaning": "恐懼、害怕",
+    "prefix": "無",
+    "root": "feraz (危險/突襲之災)",
+    "suffix": "無",
+    "formula": "突如其來的危險襲來時內心的震顫反應 → 恐懼",
+    "family": [
+      {
+        "word": "fearful",
+        "pos": "adj.",
+        "ipa": "/ˈfɪr.fəl/",
+        "phonics": "fear · ful → /fɪr/ + /fəl/",
+        "meaning": "恐懼的、擔心的",
+        "example": "Residents were fearful of another earthquake."
+      },
+      {
+        "word": "fearless",
+        "pos": "adj.",
+        "ipa": "/ˈfɪr.ləs/",
+        "phonics": "fear · less → /fɪr/ + /ləs/（沒有恐懼）",
+        "meaning": "無畏的、大膽的",
+        "example": "The fearless firefighter rushed into the burning building."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "courage",
+        "pos": "n.",
+        "ipa": "/ˈkɝː.ɪdʒ/",
+        "meaning": "勇氣、膽量",
+        "example": "It took great courage to speak the truth."
+      },
+      {
+        "word": "confidence",
+        "pos": "n.",
+        "ipa": "/ˈkɑːn.fə.dəns/",
+        "meaning": "信心、鎮定",
+        "example": "Practice gives you confidence on stage."
+      }
+    ],
+    "pun": "飛兒 (Fear)",
+    "scene": "「飛兒 (fear)」半夜走進黑漆漆的鬼屋，被突然彈出來的骷髏嚇得魂魄飛上天！",
+    "example": "He conquered his deep fear of flying and boarded the plane.",
+    "status": "hard"
+  },
+  {
+    "word": "expect",
+    "ipa": "/ɪkˈspekt/",
+    "phonics": "ex · pect → /ɪk/ + /spekt/（重音在第二音節 pect）",
+    "pos": "v.",
+    "meaning": "預期、期待、盼望",
+    "prefix": "ex- (向外)",
+    "root": "spect (看/凝視)",
+    "suffix": "無",
+    "formula": "ex- [伸頭往外] + spect [凝視觀望] = 伸長脖子朝門外看人來了沒 → 期待/預期",
+    "family": [
+      {
+        "word": "expectation",
+        "pos": "n.",
+        "ipa": "/ˌek.spekˈteɪ.ʃən/",
+        "phonics": "ex · pec · ta · tion → 重音在 ta /teɪ/",
+        "meaning": "期望、預期",
+        "example": "The movie far exceeded our expectations."
+      },
+      {
+        "word": "unexpected",
+        "pos": "adj.",
+        "ipa": "/ˌʌn.ɪkˈspek.tɪd/",
+        "phonics": "un + ex · pec · ted → un- 表否定「出乎意料」",
+        "meaning": "出乎意料的、突如其來的",
+        "example": "We received an unexpected visit from our cousin."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "doubt",
+        "pos": "v.",
+        "ipa": "/daʊt/",
+        "meaning": "懷疑、不預期會發生",
+        "example": "I doubt it will rain today; the sky is clear."
+      },
+      {
+        "word": "despair",
+        "pos": "v.",
+        "ipa": "/dɪˈsper/",
+        "meaning": "絕望、不抱期待",
+        "example": "Never despair even when things look difficult."
+      }
+    ],
+    "pun": "一刻死盼他 (Ex-pect)",
+    "scene": "訂的炸雞外送遲到一小時，餓到前胸貼後背，「一刻不停死盼他 (expect)」按門鈴！",
+    "example": "We expect the delivery to arrive before noon.",
+    "status": "hard"
+  },
+  {
+    "word": "gorgeous",
+    "ipa": "/ˈɡɔːr.dʒəs/",
+    "phonics": "gor · geous → /ɡɔːr/ + /dʒəs/（geous 固定讀輕音 /dʒəs/）",
+    "pos": "adj.",
+    "meaning": "極其美麗動人的、華麗華美的",
+    "prefix": "無",
+    "root": "gorge (咽喉/飾領項鍊)",
+    "suffix": "-ous (充滿...的)",
+    "formula": "脖子掛滿璀璨華美珠寶項鍊的美人 → 極其美麗動人的",
+    "family": [
+      {
+        "word": "gorgeously",
+        "pos": "adv.",
+        "ipa": "/ˈɡɔːr.dʒəs.li/",
+        "phonics": "gor · geous · ly → 字尾加 -ly",
+        "meaning": "華麗地、極美地",
+        "example": "The ballroom was gorgeously decorated with roses."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ugly",
+        "pos": "adj.",
+        "ipa": "/ˈʌɡ.li/",
+        "meaning": "醜陋的、難看的",
+        "example": "That abandoned building is really ugly."
+      },
+      {
+        "word": "plain",
+        "pos": "adj.",
+        "ipa": "/pleɪn/",
+        "meaning": "樸素無華的、平淡的",
+        "example": "She prefers plain clothes over flashy outfits."
+      }
+    ],
+    "pun": "夠正死 (Gor-geous)",
+    "scene": "新娘穿著流金晚禮服走進會場，全場賓客屏息：「天啊，真的『夠正死 (gorgeous)』了！」",
+    "example": "The bride looked breathtakingly gorgeous in her silk wedding dress.",
+    "status": "hard"
+  },
+  {
+    "word": "awesome",
+    "ipa": "/ˈɔː.səm/",
+    "phonics": "awe · some → /ɔː/（aw 發長音「喔」）+ /səm/（e 不發音）",
+    "pos": "adj.",
+    "meaning": "太棒了、令人驚嘆的",
+    "prefix": "無",
+    "root": "awe (敬畏/驚嘆)",
+    "suffix": "-some (充滿...的形容詞)",
+    "formula": "awe [讓人屏息驚呆] + -some = 棒到讓人肅然起敬 → 太棒了！",
+    "family": [
+      {
+        "word": "awe",
+        "pos": "n.",
+        "ipa": "/ɔː/",
+        "phonics": "aw-e → /ɔː/（敬畏）",
+        "meaning": "敬畏、驚嘆",
+        "example": "We watched the northern lights in complete awe."
+      },
+      {
+        "word": "awful",
+        "pos": "adj.",
+        "ipa": "/ˈɔː.fəl/",
+        "phonics": "aw · ful → /ɔː/ + /fəl/（注意：意義反轉成極糟糕）",
+        "meaning": "糟糕透頂的、可怕的",
+        "example": "The weather was awful all weekend."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "awful",
+        "pos": "adj.",
+        "ipa": "/ˈɔː.fəl/",
+        "meaning": "糟糕透頂的",
+        "example": "That coffee tasted awful."
+      },
+      {
+        "word": "terrible",
+        "pos": "adj.",
+        "ipa": "/ˈter.ə.bəl/",
+        "meaning": "極糟的、可怕的",
+        "example": "I had a terrible headache last night."
+      }
+    ],
+    "pun": "喔～神！(Awe-some)",
+    "scene": "街頭藝人單手倒立同時轉三個呼拉圈，路人看呆集體尖叫：「喔～神 (awesome) 啊，太棒了！」",
+    "example": "You passed the exam with full marks? That is absolutely awesome!",
+    "status": "hard"
+  },
+  {
+    "word": "daughter",
+    "ipa": "/ˈdɔː.tər/",
+    "phonics": "daugh · ter → /dɔː/（augh 在此發「喔」/ɔː/，gh 不發音）+ /tər/",
+    "pos": "n.",
+    "meaning": "女兒",
+    "prefix": "無",
+    "root": "dhughəter (餵哺/擠奶的小姑娘)",
+    "suffix": "-ter (親屬稱謂字尾)",
+    "formula": "古印歐語中負責照料家庭的親生女孩 → 女兒",
+    "family": [
+      {
+        "word": "goddaughter",
+        "pos": "n.",
+        "ipa": "/ˈɡɑːdˌdɔː.tɚ/",
+        "phonics": "god + daughter → /ɡɑːd/ + /dɔːtɚ/",
+        "meaning": "乾女兒、教女",
+        "example": "She bought a birthday gift for her goddaughter."
+      },
+      {
+        "word": "daughter-in-law",
+        "pos": "n.",
+        "ipa": "/ˈdɔː.tɚ.ɪn.lɔː/",
+        "phonics": "daughter + in + law → 法律上的女兒",
+        "meaning": "媳婦",
+        "example": "Her daughter-in-law is a talented architect."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "son",
+        "pos": "n.",
+        "ipa": "/sʌn/",
+        "meaning": "兒子",
+        "example": "Their son just started elementary school."
+      }
+    ],
+    "pun": "倒貼 (Daugh-ter)",
+    "scene": "爸爸是個超級女兒奴，為了寵寶貝「女兒 (daughter)」，甘願「倒貼」所有私房錢買公主裙！",
+    "example": "Their youngest daughter just graduated from medical school.",
+    "status": "hard"
+  },
+  {
+    "word": "congratulations",
+    "ipa": "/kənˌɡrætʃ.əˈleɪ.ʃənz/",
+    "phonics": "con · grat · u · la · tions → /kən/ + /ɡrætʃ/ + /ə/ + /leɪ/ + /ʃənz/（tu 連讀成 /tʃə/，重音在 la）",
+    "pos": "n.",
+    "meaning": "祝賀、恭喜（常用複數）",
+    "prefix": "con- (共同、一起)",
+    "root": "grat / gratus (喜悅、感激、討人喜歡)",
+    "suffix": "-tion (名詞) + -s (複數)",
+    "formula": "con- [大家一起] + grat [分享喜悅與恩典] + -ations = 大家聚在一起分享喜慶祝福 → 恭喜！祝賀！",
+    "family": [
+      {
+        "word": "congratulate",
+        "pos": "v.",
+        "ipa": "/kənˈɡrætʃ.ə.leɪt/",
+        "phonics": "con · grat · u · late → 重音在 grat",
+        "meaning": "祝賀、恭喜（動詞）",
+        "example": "Let me congratulate you on your promotion!"
+      },
+      {
+        "word": "grateful",
+        "pos": "adj.",
+        "ipa": "/ˈɡreɪt.fəl/",
+        "phonics": "grate · ful → /ɡreɪt/ + /fəl/",
+        "meaning": "感激的、感謝的",
+        "example": "I am very grateful for your kindness."
+      },
+      {
+        "word": "gratitude",
+        "pos": "n.",
+        "ipa": "/ˈɡræt̬.ə.tuːd/",
+        "phonics": "grat · i · tude → /ɡræt/ + /ə/ + /tuːd/",
+        "meaning": "感恩、謝意",
+        "example": "She expressed her deep gratitude to the doctors."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "condolences",
+        "pos": "n.",
+        "ipa": "/kənˈdoʊ.lən.sɪz/",
+        "meaning": "哀悼、慰問（喪事）",
+        "example": "We offered our sincere condolences to his family."
+      },
+      {
+        "word": "criticism",
+        "pos": "n.",
+        "ipa": "/ˈkrɪt̬.ɪ.sɪ.zəm/",
+        "meaning": "批評、指責",
+        "example": "He received harsh criticism instead of praise."
+      }
+    ],
+    "pun": "肯抓就雷神 (Con-grat-u-la-tions)",
+    "scene": "全村只有他「肯抓就」舉起「雷神」索爾的鎚子，大家衝上來拉炮大喊：恭喜恭喜 (congratulations)！",
+    "example": "Congratulations on landing your dream job after all the hard work!",
+    "status": "hard"
+  },
+  {
+    "word": "suddenly",
+    "ipa": "/ˈsʌd.ən.li/",
+    "phonics": "sud · den · ly → /sʌd/ + /ən/ + /li/（u 發短音「啊」/ʌ/，重音在第一音節）",
+    "pos": "adv.",
+    "meaning": "突然、忽然地",
+    "prefix": "sub- (在底下/暗中)",
+    "root": "ire (走/來到)",
+    "suffix": "-ly (副詞字尾)",
+    "formula": "sub- [暗中] + ire [走來] + -ly = 毫無預兆暗中冒出來 → 突然",
+    "family": [
+      {
+        "word": "sudden",
+        "pos": "adj.",
+        "ipa": "/ˈsʌd.ən/",
+        "phonics": "sud · den → /sʌd/ + /ən/",
+        "meaning": "突然的、驟然的",
+        "example": "A sudden storm forced us to cancel the picnic."
+      },
+      {
+        "word": "suddenness",
+        "pos": "n.",
+        "ipa": "/ˈsʌd.ən.nəs/",
+        "phonics": "sud · den · ness → 加 -ness 變名詞",
+        "meaning": "突然性、驟然",
+        "example": "The suddenness of the announcement shocked everyone."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "gradually",
+        "pos": "adv.",
+        "ipa": "/ˈɡrædʒ.u.ə.li/",
+        "meaning": "逐漸地、慢慢地",
+        "example": "The sky gradually turned dark after sunset."
+      },
+      {
+        "word": "slowly",
+        "pos": "adv.",
+        "ipa": "/ˈsloʊ.li/",
+        "meaning": "緩慢地",
+        "example": "The train slowly pulled into the station."
+      }
+    ],
+    "pun": "撒等你 (Sud-den-ly)",
+    "scene": "你走在暗巷裡，轉角處「突然」跳出一群朋友「撒花等你 (suddenly)」給你驚喜派對！",
+    "example": "Suddenly, the lights went out and the entire room was pitch-black.",
+    "status": "hard"
+  }
+]
