@@ -2744,6 +2744,98 @@
       }
     ];
 
+    const PREFIX_RULES = [
+      { key: "ab", meaning: "遠離、脫離 (away from)" },
+      { key: "abs", meaning: "脫離 (away)" },
+      { key: "ad", meaning: "朝向、加強 (to, toward)" },
+      { key: "ac", meaning: "朝向 (toward)" },
+      { key: "af", meaning: "朝向 (toward)" },
+      { key: "ag", meaning: "朝向 (toward)" },
+      { key: "al", meaning: "朝向 (toward)" },
+      { key: "ap", meaning: "朝向 (toward)" },
+      { key: "ar", meaning: "朝向 (toward)" },
+      { key: "as", meaning: "朝向 (toward)" },
+      { key: "at", meaning: "朝向 (toward)" },
+      { key: "ante", meaning: "在...之前 (before)" },
+      { key: "anti", meaning: "反抗、對抗 (against)" },
+      { key: "auto", meaning: "自己、自發 (self)" },
+      { key: "bene", meaning: "良善、美好 (good, well)" },
+      { key: "bi", meaning: "雙、兩倍 (two, twice)" },
+      { key: "circum", meaning: "環繞、周圍 (around)" },
+      { key: "com", meaning: "共同、完全 (together, completely)" },
+      { key: "con", meaning: "共同、完全 (together, completely)" },
+      { key: "col", meaning: "共同 (together)" },
+      { key: "cor", meaning: "共同 (together)" },
+      { key: "contra", meaning: "反對、相反 (against)" },
+      { key: "contro", meaning: "反向 (against)" },
+      { key: "counter", meaning: "對立、相反 (opposite)" },
+      { key: "de", meaning: "向下、脫離、否定 (down, away, off)" },
+      { key: "dis", meaning: "分離、否定 (apart, not)" },
+      { key: "dif", meaning: "分離 (apart)" },
+      { key: "dys", meaning: "不良、困難 (bad, abnormal)" },
+      { key: "epi", meaning: "在...之上、外表 (upon, over)" },
+      { key: "eu", meaning: "優美、良善 (good, well)" },
+      { key: "ex", meaning: "向外、出 (out of, former)" },
+      { key: "extra", meaning: "超出、在...之外 (beyond)" },
+      { key: "fore", meaning: "預先、在前 (before, front)" },
+      { key: "hemi", meaning: "半 (half)" },
+      { key: "hetero", meaning: "異、不同 (different)" },
+      { key: "homo", meaning: "同 (same)" },
+      { key: "hyper", meaning: "超過、過度 (over, excessive)" },
+      { key: "hypo", meaning: "在...之下、低於 (under, below)" },
+      { key: "il", meaning: "不、無 (not)" },
+      { key: "im", meaning: "不、無、向內 (not, into)" },
+      { key: "in", meaning: "不、無、向內 (not, into)" },
+      { key: "ir", meaning: "不、無 (not)" },
+      { key: "inter", meaning: "在...之間、互相 (between, among)" },
+      { key: "intra", meaning: "在...之內 (within)" },
+      { key: "intro", meaning: "向內 (inward)" },
+      { key: "macro", meaning: "宏觀、巨大的 (large)" },
+      { key: "mal", meaning: "惡劣、不良 (bad, ill)" },
+      { key: "male", meaning: "不良 (ill)" },
+      { key: "mega", meaning: "百萬、巨大 (huge)" },
+      { key: "meta", meaning: "轉變、超越 (beyond, change)" },
+      { key: "micro", meaning: "微小 (small)" },
+      { key: "mis", meaning: "錯誤、不當 (wrong, badly)" },
+      { key: "mono", meaning: "單一 (single, one)" },
+      { key: "multi", meaning: "多元、多重 (many)" },
+      { key: "neo", meaning: "新 (new)" },
+      { key: "non", meaning: "非、不 (not)" },
+      { key: "ob", meaning: "逆向、朝向、阻擋 (against, facing)" },
+      { key: "oc", meaning: "朝向 (facing)" },
+      { key: "of", meaning: "朝向 (facing)" },
+      { key: "op", meaning: "朝向 (facing)" },
+      { key: "omni", meaning: "全、無所不在 (all, every)" },
+      { key: "pan", meaning: "全、泛 (all, every)" },
+      { key: "para", meaning: "在旁、超越、輔助 (beside, beyond)" },
+      { key: "per", meaning: "穿過、貫徹、完全 (through, thoroughly)" },
+      { key: "peri", meaning: "周圍、環繞 (around)" },
+      { key: "poly", meaning: "眾多 (many)" },
+      { key: "post", meaning: "在...之後 (after)" },
+      { key: "pre", meaning: "預先、在...之前 (before)" },
+      { key: "pro", meaning: "向前、支持、延後 (forward, in favor of)" },
+      { key: "pseudo", meaning: "假、偽 (false)" },
+      { key: "re", meaning: "再次、往回 (again, back)" },
+      { key: "retro", meaning: "向後、倒退 (backward)" },
+      { key: "se", meaning: "分開、遠離 (apart)" },
+      { key: "semi", meaning: "半 (half)" },
+      { key: "sub", meaning: "在...之下、次要 (under, below)" },
+      { key: "suc", meaning: "在下 (under)" },
+      { key: "suf", meaning: "在下 (under)" },
+      { key: "sug", meaning: "在下 (under)" },
+      { key: "sup", meaning: "在下 (under)" },
+      { key: "sur", meaning: "在...之上或底下 (over/under)" },
+      { key: "super", meaning: "超級、超出 (above, beyond)" },
+      { key: "syn", meaning: "共同、同時 (together, with)" },
+      { key: "sym", meaning: "共同 (together)" },
+      { key: "tele", meaning: "遠距離 (distant)" },
+      { key: "trans", meaning: "穿越、轉移 (across, through)" },
+      { key: "tri", meaning: "三 (three)" },
+      { key: "ultra", meaning: "極端、超出 (beyond)" },
+      { key: "un", meaning: "不、相反 (not, opposite)" },
+      { key: "uni", meaning: "統一、單一 (one)" }
+    ];
+
     const ROOT_RULES = [
       { key: "act", meaning: "行動、做 (to do, drive)" },
       { key: "ali", meaning: "另一個、其他 (other)" },
@@ -3193,7 +3285,7 @@
 
     function renderQuickTags() {
       const container = document.getElementById('quick-tags-container');
-      const sampleList = ["procrastinate", "ubiquitous", "ephemeral", "meticulous", "gregarious", "serendipity", "ambivalent", "surreptitious", "obfuscate", "capricious", "fastidious", "magnanimous"];
+      const sampleList = userDeck.slice(0, 10).map(w => w.word);
       container.innerHTML = sampleList.map(w => `
         <button onclick="quickLookup('${w}')" class="px-3 py-1 rounded-full bg-white hover:bg-indigo-50 hover:text-indigo-700 hover:border-indigo-300 text-slate-700 border border-slate-200 shadow-2xs font-semibold transition-all shrink-0">
           ${w}
@@ -3211,7 +3303,7 @@
     function handleAnalyzeWord() {
       const input = document.getElementById('search-input');
       const val = input.value.trim();
-      if (!val) return;
+      if (!val) { showToast("請先輸入英文單字再點擊智能解剖！", "🔍"); input.focus(); return; }
       const item = analyzeWordIntelligently(val);
       renderAnalysisResult(item);
     }
