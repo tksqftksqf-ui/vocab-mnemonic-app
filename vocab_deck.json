@@ -1,5 +1,565 @@
 [
   {
+    "word": "university",
+    "ipa": "/ˌjuː.nəˈvɜːr.sə.ti/",
+    "phonics": "u · ni · ver · si · ty → /juː/ + /nə/ + /vɜːr/ + /sə/ + /ti/",
+    "pos": "n.",
+    "meaning": "大學、綜合性大學",
+    "prefix": "uni- (單一、全部)",
+    "root": "vers (轉、匯聚)",
+    "suffix": "-ity (名詞字尾，表機構或狀態)",
+    "formula": "uni- [全部] + vers [轉成一體] + -ity = 匯聚萬千學科的最高學府（大學）",
+    "family": [
+      {
+        "word": "universe",
+        "pos": "n.",
+        "ipa": "/ˈjuː.nə.vɜːrs/",
+        "phonics": "u · ni · verse → /juː/ + /nə/ + /vɜːrs/",
+        "meaning": "宇宙、萬物",
+        "example": "Scientists are still exploring the mysteries of the universe."
+      },
+      {
+        "word": "universal",
+        "pos": "adj.",
+        "ipa": "/ˌjuː.nəˈvɜːr.səl/",
+        "phonics": "u · ni · ver · sal → /juː/ + /nə/ + /vɜːr/ + /səl/",
+        "meaning": "普遍的、全世界的",
+        "example": "Music is often called a universal language."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "high school",
+        "pos": "n.",
+        "ipa": "/ˈhaɪ skuːl/",
+        "meaning": "高中",
+        "example": "She graduated from high school before entering university."
+      }
+    ],
+    "pun": "有你沒事踢 (U-ni-ver-si-ty)",
+    "scene": "考上大學第一天，室友笑著說「在這裡有你沒事踢踢足球、念念書超自由」，結果教授突然出現把大家轉進期中考地獄。",
+    "example": "She plans to study computer science at a top university.",
+    "status": "hard"
+  },
+  {
+    "word": "protect",
+    "ipa": "/prəˈtekt/",
+    "phonics": "pro · tect → /prə/ + /tekt/",
+    "pos": "v.",
+    "meaning": "保護、防護",
+    "prefix": "pro- (在前面)",
+    "root": "tect (蓋住、遮蔽)",
+    "suffix": "（無明顯字尾）",
+    "formula": "pro- [站在前面] + tect [遮蓋] = 擋在前面遮風避雨（保護）",
+    "family": [
+      {
+        "word": "protection",
+        "pos": "n.",
+        "ipa": "/prəˈtek.ʃən/",
+        "phonics": "pro · tec · tion → /prə/ + /tek/ + /ʃən/",
+        "meaning": "保護、防護措施",
+        "example": "Sunscreen offers great protection against UV rays."
+      },
+      {
+        "word": "protective",
+        "pos": "adj.",
+        "ipa": "/prəˈtek.tɪv/",
+        "phonics": "pro · tec · tive → /prə/ + /tek/ + /tɪv/",
+        "meaning": "保護的、防護的",
+        "example": "Always wear protective glasses in the lab."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "attack",
+        "pos": "v.",
+        "ipa": "/əˈtæk/",
+        "meaning": "攻擊、侵害",
+        "example": "The guards stood ready to protect the castle if enemies attack."
+      },
+      {
+        "word": "harm",
+        "pos": "v.",
+        "ipa": "/hɑːrm/",
+        "meaning": "傷害、損害",
+        "example": "We must protect endangered animals instead of letting hunters harm them."
+      }
+    ],
+    "pun": "撲來鐵殼套 (Pro-tect)",
+    "scene": "暴風雨來襲時，保鑣大喊一聲直接「撲來把鐵殼套」在你頭上，幫你擋掉所有飛來的樹枝和冰雹。",
+    "example": "Parents always try their best to protect their children.",
+    "status": "hard"
+  },
+  {
+    "word": "grab",
+    "ipa": "/ɡræb/",
+    "phonics": "grab → /ɡræb/（單音節，短母音 /æ/ 嘴巴張大）",
+    "pos": "v.",
+    "meaning": "猛抓、搶奪、順手拿",
+    "prefix": "（無明顯字首）",
+    "root": "grab (抓、攫取)",
+    "suffix": "（無明顯字尾）",
+    "formula": "grab [猛力抓住] = 一把抓過來（搶、順手拿）",
+    "family": [
+      {
+        "word": "grasp",
+        "pos": "v.",
+        "ipa": "/ɡræsp/",
+        "phonics": "grasp → /ɡræsp/",
+        "meaning": "緊握、領會",
+        "example": "He tried to grasp the rope before falling."
+      },
+      {
+        "word": "grabber",
+        "pos": "n.",
+        "ipa": "/ˈɡræb.ər/",
+        "phonics": "grab · ber → /ɡræb/ + /ər/",
+        "meaning": "抓取器、搶奪者",
+        "example": "That catchy title is a real attention grabber."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "release",
+        "pos": "v.",
+        "ipa": "/rɪˈliːs/",
+        "meaning": "放開、釋放",
+        "example": "Release the handle slowly after you grab the brake."
+      },
+      {
+        "word": "drop",
+        "pos": "v.",
+        "ipa": "/drɑːp/",
+        "meaning": "鬆手、掉落",
+        "example": "Be careful not to drop the glass."
+      }
+    ],
+    "pun": "哥拉布 (Grab)",
+    "scene": "百貨週年慶大門一開，只見「哥拉布」一樣把架上的限量外套整把抓進懷裡，誰都搶不贏他。",
+    "example": "Let's grab a quick coffee before the meeting starts.",
+    "status": "hard"
+  },
+  {
+    "word": "consider",
+    "ipa": "/kənˈsɪd.ər/",
+    "phonics": "con · sid · er → /kən/ + /sɪd/ + /ər/",
+    "pos": "v.",
+    "meaning": "仔細考慮、認為",
+    "prefix": "con- (一起、共同)",
+    "root": "sider (星星、星象)",
+    "suffix": "（無明顯字尾）",
+    "formula": "con- [一起] + sider [看星星占卜] = 慎重觀察評估（考慮、認為）",
+    "family": [
+      {
+        "word": "consideration",
+        "pos": "n.",
+        "ipa": "/kənˌsɪd.əˈreɪ.ʃən/",
+        "phonics": "con · sid · er · a · tion → /kən/ + /sɪd/ + /ə/ + /reɪ/ + /ʃən/",
+        "meaning": "考慮、體貼",
+        "example": "Thank you for taking my suggestion into consideration."
+      },
+      {
+        "word": "considerate",
+        "pos": "adj.",
+        "ipa": "/kənˈsɪd.ər.ət/",
+        "phonics": "con · sid · er · ate → /kən/ + /sɪd/ + /ər/ + /ət/",
+        "meaning": "體貼的、設想周到的",
+        "example": "It was very considerate of you to bring me an umbrella."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ignore",
+        "pos": "v.",
+        "ipa": "/ɪɡˈnɔːr/",
+        "meaning": "忽略、不理會",
+        "example": "Don't ignore the warning signs when you consider the plan."
+      }
+    ],
+    "pun": "肯洗的 (Con-sid-er)",
+    "scene": "面對堆成山的髒碗盤，室友站在水槽前思考了十分鐘：「好啦，看在晚餐這麼好吃的份上，我是『肯洗的』！」",
+    "example": "We need to consider all the options before making a decision.",
+    "status": "hard"
+  },
+  {
+    "word": "allow",
+    "ipa": "/əˈlaʊ/",
+    "phonics": "al · low → /ə/ + /laʊ/",
+    "pos": "v.",
+    "meaning": "允許、准許",
+    "prefix": "al- (ad- 同化，朝向)",
+    "root": "low (讚許、給予空間)",
+    "suffix": "（無明顯字尾）",
+    "formula": "al- [朝向] + low [點頭認可] = 點頭放行（允許）",
+    "family": [
+      {
+        "word": "allowance",
+        "pos": "n.",
+        "ipa": "/əˈlaʊ.əns/",
+        "phonics": "al · low · ance → /ə/ + /laʊ/ + /əns/",
+        "meaning": "零用錢、津貼、允許量",
+        "example": "Kids learn to save money from their weekly allowance."
+      },
+      {
+        "word": "allowable",
+        "pos": "adj.",
+        "ipa": "/əˈlaʊ.ə.bəl/",
+        "phonics": "al · low · a · ble → /ə/ + /laʊ/ + /ə/ + /bəl/",
+        "meaning": "可允許的、合法的",
+        "example": "Check the maximum allowable baggage weight before flying."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "forbid",
+        "pos": "v.",
+        "ipa": "/fərˈbɪd/",
+        "meaning": "禁止、不准",
+        "example": "The sign forbids visitors from taking flash photos."
+      },
+      {
+        "word": "prohibit",
+        "pos": "v.",
+        "ipa": "/prəˈhɪb.ɪt/",
+        "meaning": "明令禁止",
+        "example": "Smoking is strictly prohibited inside the building."
+      }
+    ],
+    "pun": "阿撈 (Al-low)",
+    "scene": "夜市撈金魚老闆本來不給大人玩，結果看到「阿撈」一臉哀求，只好無奈點頭允許他下去撈兩隻。",
+    "example": "Pets are not allowed inside this restaurant.",
+    "status": "hard"
+  },
+  {
+    "word": "fault",
+    "ipa": "/fɔːlt/",
+    "phonics": "fault → /fɔːlt/（單音節，/ɔː/ 嘴唇微圓）",
+    "pos": "n.",
+    "meaning": "過錯、責任、缺點",
+    "prefix": "（無明顯字首）",
+    "root": "fault (失足、失敗，源自拉丁語 fallere)",
+    "suffix": "（無明顯字尾）",
+    "formula": "fault [失誤跌倒] = 出包的地方（過錯、缺點）",
+    "family": [
+      {
+        "word": "faulty",
+        "pos": "adj.",
+        "ipa": "/ˈfɔːl.ti/",
+        "phonics": "faul · ty → /fɔːl/ + /ti/",
+        "meaning": "有故障的、有缺陷的",
+        "example": "The fire was caused by faulty electrical wiring."
+      },
+      {
+        "word": "faultless",
+        "pos": "adj.",
+        "ipa": "/ˈfɔːlt.ləs/",
+        "phonics": "fault · less → /fɔːlt/ + /ləs/",
+        "meaning": "無懈可擊的、完美的",
+        "example": "Her piano performance was completely faultless."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "merit",
+        "pos": "n.",
+        "ipa": "/ˈmer.ɪt/",
+        "meaning": "優點、功勞",
+        "example": "We should judge the proposal on its own merits."
+      }
+    ],
+    "pun": "佛特 (Fault)",
+    "scene": "辦公室咖啡機突然噴泡沫，大家互指推卸責任，最後全場指向角落那個叫「佛特」的實習生：「絕對是你的錯！」",
+    "example": "It wasn't your fault that the train got delayed.",
+    "status": "hard"
+  },
+  {
+    "word": "discuss",
+    "ipa": "/dɪˈskʌs/",
+    "phonics": "dis · cuss → /dɪ/ + /skʌs/",
+    "pos": "v.",
+    "meaning": "討論、商討",
+    "prefix": "dis- (分開、四散)",
+    "root": "cuss (敲擊、震動)",
+    "suffix": "（無明顯字尾）",
+    "formula": "dis- [拆開] + cuss [敲擊] = 把問題敲開來四面拆解（討論）",
+    "family": [
+      {
+        "word": "discussion",
+        "pos": "n.",
+        "ipa": "/dɪˈskʌʃ.ən/",
+        "phonics": "dis · cus · sion → /dɪ/ + /skʌʃ/ + /ən/",
+        "meaning": "討論、研討",
+        "example": "We had a long discussion about the vacation budget."
+      },
+      {
+        "word": "concussion",
+        "pos": "n.",
+        "ipa": "/kənˈkʌʃ.ən/",
+        "phonics": "con · cus · sion → /kən/ + /kʌʃ/ + /ən/",
+        "meaning": "腦震盪（頭部劇烈撞擊）",
+        "example": "The player suffered a mild concussion during the game."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "avoid",
+        "pos": "v.",
+        "ipa": "/əˈvɔɪd/",
+        "meaning": "迴避、避開",
+        "example": "Let's not avoid the issue; we need to discuss it openly."
+      }
+    ],
+    "pun": "弟死卡死 (Dis-cuss)",
+    "scene": "兩兄弟為了今晚要吃火鍋還是燒肉爭論不休，「弟死卡死」堅持不讓步，最後只好坐下來開家庭會議好好討論。",
+    "example": "Let's meet tomorrow to discuss the project timeline.",
+    "status": "hard"
+  },
+  {
+    "word": "upset",
+    "ipa": "/ʌpˈset/",
+    "phonics": "up · set → /ʌp/ + /set/",
+    "pos": "adj. / v.",
+    "meaning": "難過的、心煩的；弄翻",
+    "prefix": "up- (向上、翻轉)",
+    "root": "set (放置、擺好)",
+    "suffix": "（無明顯字尾）",
+    "formula": "up- [向上翻] + set [擺好的東西] = 把平靜的心情或東西掀翻（難過、弄翻）",
+    "family": [
+      {
+        "word": "upsetting",
+        "pos": "adj.",
+        "ipa": "/ʌpˈset.ɪŋ/",
+        "phonics": "up · set · ting → /ʌp/ + /set/ + /ɪŋ/",
+        "meaning": "令人心煩的、使人難過的",
+        "example": "Hearing the bad news was deeply upsetting."
+      },
+      {
+        "word": "setup",
+        "pos": "n.",
+        "ipa": "/ˈset.ʌp/",
+        "phonics": "set · up → /set/ + /ʌp/",
+        "meaning": "配置、安排、圈套",
+        "example": "I really like your new desk setup."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "cheerful",
+        "pos": "adj.",
+        "ipa": "/ˈtʃɪr.fəl/",
+        "meaning": "開朗的、愉快的",
+        "example": "She stayed cheerful even when things didn't go as planned."
+      },
+      {
+        "word": "calm",
+        "pos": "adj.",
+        "ipa": "/kɑːm/",
+        "meaning": "冷靜的、平靜的",
+        "example": "Try to stay calm instead of getting upset."
+      }
+    ],
+    "pun": "阿婆塞 (Up-set)",
+    "scene": "「阿婆塞」了一整鍋剛煮好的湯在桌邊，結果貓咪一跳直接整鍋翻倒，害阿婆當場心痛到超難過。",
+    "example": "Don't get upset over a small mistake.",
+    "status": "hard"
+  },
+  {
+    "word": "proud",
+    "ipa": "/praʊd/",
+    "phonics": "proud → /praʊd/（單音節，/aʊ/ 嘴巴由大張滑向嘟圓）",
+    "pos": "adj.",
+    "meaning": "驕傲的、自豪的",
+    "prefix": "（無明顯字首）",
+    "root": "proud (勇敢的、有價值的，源自古法語 prud)",
+    "suffix": "（無明顯字尾）",
+    "formula": "proud [挺胸自豪] = 為成就感到光榮（驕傲的、自豪的）",
+    "family": [
+      {
+        "word": "proudly",
+        "pos": "adv.",
+        "ipa": "/ˈpraʊd.li/",
+        "phonics": "proud · ly → /praʊd/ + /li/",
+        "meaning": "自豪地、驕傲地",
+        "example": "She proudly showed everyone her gold medal."
+      },
+      {
+        "word": "pride",
+        "pos": "n.",
+        "ipa": "/praɪd/",
+        "phonics": "pride → /praɪd/",
+        "meaning": "自豪、驕傲、自尊心",
+        "example": "He takes great pride in his cooking skills."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "ashamed",
+        "pos": "adj.",
+        "ipa": "/əˈʃeɪmd/",
+        "meaning": "羞愧的、慚愧的",
+        "example": "You have nothing to be ashamed of; you should be proud."
+      },
+      {
+        "word": "humble",
+        "pos": "adj.",
+        "ipa": "/ˈhʌm.bəl/",
+        "meaning": "謙虛的",
+        "example": "Despite his success, he remains humble."
+      }
+    ],
+    "pun": "怕老得 (Proud)",
+    "scene": "爺爺參加社區馬拉松，雖然「怕老得」跑不動，結果竟然衝線拿第一，站上頒獎台驕傲到下巴都要抬到天上去。",
+    "example": "I am so proud of how hard you worked this year.",
+    "status": "hard"
+  },
+  {
+    "word": "mention",
+    "ipa": "/ˈmen.ʃən/",
+    "phonics": "men · tion → /men/ + /ʃən/",
+    "pos": "v. / n.",
+    "meaning": "提及、說起",
+    "prefix": "（無明顯字首）",
+    "root": "ment (心智、思考)",
+    "suffix": "-ion (名詞字尾，兼具動詞用法)",
+    "formula": "ment [心裡想] + -ion [動作] = 把心裡的想法帶出來講（提及）",
+    "family": [
+      {
+        "word": "mental",
+        "pos": "adj.",
+        "ipa": "/ˈmen.təl/",
+        "phonics": "men · tal → /men/ + /təl/",
+        "meaning": "心理的、精神的",
+        "example": "Getting enough sleep is essential for mental health."
+      },
+      {
+        "word": "unmentioned",
+        "pos": "adj.",
+        "ipa": "/ʌnˈmen.ʃənd/",
+        "phonics": "un · men · tioned → /ʌn/ + /men/ + /ʃənd/",
+        "meaning": "未被提及的",
+        "example": "Several important details remained unmentioned in the report."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "omit",
+        "pos": "v.",
+        "ipa": "/oʊˈmɪt/",
+        "meaning": "省略、遺漏",
+        "example": "Did he mention the cost, or did he omit that part?"
+      },
+      {
+        "word": "conceal",
+        "pos": "v.",
+        "ipa": "/kənˈsiːl/",
+        "meaning": "隱瞞、掩蓋",
+        "example": "She tried to conceal the truth from her friends."
+      }
+    ],
+    "pun": "悶神 (Men-tion)",
+    "scene": "聚會上大家聊得超嗨，只有「悶神」坐在角落都不說話，直到有人突然提到他的初戀，他才瞬間抬頭。",
+    "example": "Did she mention when she will arrive?",
+    "status": "hard"
+  },
+  {
+    "word": "rule",
+    "ipa": "/ruːl/",
+    "phonics": "rule → /ruːl/（單音節，長母音 /uː/ 嘴唇嘟圓）",
+    "pos": "n. / v.",
+    "meaning": "規則、規定；統治",
+    "prefix": "（無明顯字首）",
+    "root": "rule (直尺、準則，源自拉丁語 regula)",
+    "suffix": "（無明顯字尾）",
+    "formula": "rule [畫線的直尺] = 大家必須照著走的基準（規則、統治）",
+    "family": [
+      {
+        "word": "ruler",
+        "pos": "n.",
+        "ipa": "/ˈruː.lər/",
+        "phonics": "rul · er → /ruː/ + /lər/",
+        "meaning": "尺；統治者",
+        "example": "Use a ruler to draw a straight line."
+      },
+      {
+        "word": "regular",
+        "pos": "adj.",
+        "ipa": "/ˈreɡ.jə.lər/",
+        "phonics": "reg · u · lar → /reɡ/ + /jə/ + /lər/",
+        "meaning": "規律的、定期的",
+        "example": "Regular exercise keeps your energy high."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "chaos",
+        "pos": "n.",
+        "ipa": "/ˈkeɪ.ɑːs/",
+        "meaning": "混亂、無序",
+        "example": "Without clear rules, the traffic would turn into chaos."
+      },
+      {
+        "word": "exception",
+        "pos": "n.",
+        "ipa": "/ɪkˈsep.ʃən/",
+        "meaning": "例外",
+        "example": "Every rule has an exception."
+      }
+    ],
+    "pun": "滷喔 (Rule)",
+    "scene": "巷口那家滷味攤老闆訂了一個超嚴格的規定：「要買『滷喔』請排隊，插隊一律不賣！」",
+    "example": "Breaking the safety rules in the factory is strictly forbidden.",
+    "status": "hard"
+  },
+  {
+    "word": "incredible",
+    "ipa": "/ɪnˈkred.ə.bəl/",
+    "phonics": "in · cred · i · ble → /ɪn/ + /kred/ + /ə/ + /bəl/",
+    "pos": "adj.",
+    "meaning": "難以置信的、驚人的、極棒的",
+    "prefix": "in- (不、否定)",
+    "root": "cred (相信、信任)",
+    "suffix": "-ible (能夠…的)",
+    "formula": "in- [不] + cred [相信] + -ible [能] = 讓人無法相信的（難以置信的）",
+    "family": [
+      {
+        "word": "credible",
+        "pos": "adj.",
+        "ipa": "/ˈkred.ə.bəl/",
+        "phonics": "cred · i · ble → /kred/ + /ə/ + /bəl/",
+        "meaning": "可信的、可靠的",
+        "example": "Make sure you get your news from credible sources."
+      },
+      {
+        "word": "credit",
+        "pos": "n.",
+        "ipa": "/ˈkred.ɪt/",
+        "phonics": "cred · it → /kred/ + /ɪt/",
+        "meaning": "信用、學分、功勞",
+        "example": "She deserves all the credit for this incredible design."
+      }
+    ],
+    "antonyms": [
+      {
+        "word": "believable",
+        "pos": "adj.",
+        "ipa": "/bɪˈliː.və.bəl/",
+        "meaning": "可信的、合情合理的",
+        "example": "The movie plot wasn't very believable."
+      },
+      {
+        "word": "ordinary",
+        "pos": "adj.",
+        "ipa": "/ˈɔːr.dən.er.i/",
+        "meaning": "普通的、平凡的",
+        "example": "What looked like an ordinary day turned into an incredible adventure."
+      }
+    ],
+    "pun": "硬虧得爆 (In-cred-i-ble)",
+    "scene": "老闆清倉大拍賣全部打一折，旁邊店員驚呼：「老闆你這樣『硬虧得爆』，這價格簡直難以置信啊！」",
+    "example": "The view from the top of the mountain was absolutely incredible.",
+    "status": "hard"
+  },
+  {
     "word": "breath",
     "ipa": "/breθ/",
     "phonics": "br-ea-th → /br/ + /e/ + /θ/（ea 在此發短母音「ㄝ」，字尾 th 輕咬舌尖吐氣無聲）",
